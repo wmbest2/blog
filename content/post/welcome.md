@@ -3,7 +3,7 @@ Categories = []
 Description = "And introductory blog post"
 Tags = []
 date = "2015-03-31T09:41:16-05:00"
-title = "welcome"
+title = "Welcome"
 
 +++
 
