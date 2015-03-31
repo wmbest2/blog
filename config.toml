@@ -1,4 +1,22 @@
 baseurl = "http://www.wmbest.com/"
 languageCode = "en-us"
 title = "Radical Robot"
-theme = "herring-cove"
+theme = "hugo-uno"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
+author = "William Best"
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Bill"
+  github = "wmbest2"
+  bitbucket = "wmbest2"
+  twitter = "wmbest2"
+  email = "wmbest2@gmail.com"
+  description = ""
+  cv = "/pages/cv"
+  linkedin = "wmbest2"
